@@ -1,4 +1,4 @@
-[![](./images/keeta.jpg)](https://keeta.com)
+[![](https://github.com/KeetaPay/.github/blob/main/profile/images/keeta.jpg?raw=true)](https://keeta.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/company/keetapay/">LinkedIn</a> | 
