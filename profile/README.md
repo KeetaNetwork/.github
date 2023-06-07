@@ -1,7 +1,7 @@
-  [![](./images/keeta.jpg)](https://keeta.com)
+[![](./images/keeta.jpg)](https://keeta.com)
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/keetapay/">LinkedIn</a> | `
+  <a href="https://www.linkedin.com/company/keetapay/">LinkedIn</a> | 
   <a href="https://instagram.com/keetapay">Instagram</a> | 
   <a href="https://twitter.com/KeetaCo">Twitter</a> |
   <a href="https://keeta.com/careers">Careers</a>
