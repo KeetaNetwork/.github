@@ -1,10 +1,9 @@
 [![](https://github.com/KeetaPay/.github/blob/main/profile/images/keeta.jpg?raw=true)](https://keeta.com)
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/keetapay/">LinkedIn</a> | 
-  <a href="https://instagram.com/keetapay">Instagram</a> | 
-  <a href="https://twitter.com/KeetaCo">Twitter</a> |
-  <a href="https://keeta.com/careers">Careers</a>
+  <a href="https://www.linkedin.com/company/keetanetwork/">LinkedIn</a> | 
+  <a href="https://instagram.com/keetanetwork">Instagram</a> | 
+  <a href="https://twitter.com/Keetnetwork">Twitter</a>
 </p>
 
 # Keeta 
@@ -14,26 +13,7 @@ Today’s global payments system is like a highway with tolls every two miles. L
 
 That’s why Keeta works with governments and banks to create a safer path for your money without any stops.
 
-[Learn more about us](https://keeta.com/about) | [Join us](https://keeta.com/careers)
-
-# Solutions
-
-## Keeta Network
-Keeta is reshaping global transactions with KeetaNet, a real-time settlement network built from the ground up. At 50 million transactions per second in proven capacity, KeetaNet scales at orders of magnitude more than competing solutions.
-
-We vertically integrate with Banks, FX Providers, and regional payment networks to provide a faster and more efficient way to deliver your payment.
-
-[Learn more](https://keeta.com) | [Request invite](https://keeta.com/request-invite)
-
-## Keeta Platform
-Our Platform APIs are easy to integrate no matter what your current system looks like, allowing you to connect globally. With multi-currency bank accounts and regional payment networks, you can facilitate fast domestic and international payments at wholesale currency exchange rates.
-
-[Learn more](https://keeta.com/platform) | [Request invite](https://keeta.com/request-invite)
-
-## Keeta App
-Whether you are building financial tech with international capabilities or need a-la-carte solutions, the Keeta Platform is easy to implement. We manage the regulatory landscape in each country and region we serve, so you can focus on building.
-
-[Learn more](https://keeta.com/app) | [Request invite](https://keeta.com/request-invite)
+[Learn more](https://keeta.com)
 
 # Learn more
 - ["Eric Schmidt backs Keeta, a startup working to make cross-border payments ‘as easy as Venmo’" by TechCrynch](https://techcrunch.com/2023/06/06/eric-schmidt-keeta-cross-border-payments-fintech/)
