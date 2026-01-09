@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/company/keetanetwork/">LinkedIn</a> | 
   <a href="https://instagram.com/keetanetwork">Instagram</a> | 
-  <a href="https://twitter.com/Keetnetwork">Twitter</a>
+  <a href="https://x.com/KeetaNetwork">X.com</a>
 </p>
 
 # Keeta 
